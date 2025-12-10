@@ -1,0 +1,283 @@
+TUKII TRANSPORT SYSTEM
+User Manual & System Documentation
+Version: 1.0
+
+Date: December 2024
+
+Author: Leonora Awalo
+
+GitHub Repository: https://github.com/leonorawalo/Capstone-1-.git
+
+Table of Contents
+Introduction
+System Overview
+Technical Specifications
+Page-by-Page Guide
+Home Page
+About Page
+Services Page
+Pricing Page
+Safety Page
+Booking Page
+FAQ Page
+Contact Page
+Design Features
+User Navigation Guide
+Future Enhancements
+1. Introduction
+1.1 Project Overview
+The Tukii Transport System is a modern, responsive static website designed to showcase an urban transport service specializing in eco-friendly tuktuk rides. The website provides comprehensive information about the service, including booking procedures, pricing, safety measures, and customer support options.
+
+1.2 Purpose
+This user manual serves as a comprehensive guide to understanding and navigating the Tukii Transport website. It documents all features, pages, and functionality available to users, providing clear instructions for accessing information and understanding the transport service offerings.
+
+1.3 Target Audience
+End Users: Potential customers seeking transport services
+Administrators: Team members managing content and updates
+Developers: Technical personnel maintaining the codebase
+Stakeholders: Business owners and decision-makers
+2. System Overview
+2.1 System Architecture
+The Tukii Transport System is built using modern web technologies with a focus on simplicity, performance, and user experience. The architecture consists of:
+
+Core Technologies:
+HTML5: Semantic markup for content structure
+CSS3: Advanced styling with gradients, transitions, and responsive design
+Google Fonts (Lexend): Modern, readable typography
+Unsplash Images: High-quality photography integration
+2.2 Key Features
+Fully responsive design for mobile, tablet, and desktop devices
+Eight interconnected pages with consistent navigation
+Professional UI/UX with modern design principles
+Optimized for readability and accessibility
+Fast loading times with no external dependencies except fonts and images
+Clean, maintainable code structure
+2.3 Design Philosophy
+The design follows contemporary web standards with emphasis on:
+
+Simplicity: Clean layouts without unnecessary complexity
+Consistency: Uniform styling and navigation across all pages
+Readability: Optimal typography and spacing
+Visual Hierarchy: Clear information architecture
+Modern Aesthetics: Professional appearance suitable for a transport business
+3. Technical Specifications
+3.1 File Structure
+File Name	Tukii
+index.html	Home page - Landing page with hero section	HTML
+about.html	About page - Company information and mission	HTML
+services.html	Services page - Detailed service offerings	HTML
+pricing.html	Pricing page - Transparent pricing information	HTML
+safety.html	Safety page - Safety protocols and measures	HTML
+booking.html	Booking page - How to book rides	HTML
+faq.html	FAQ page - Frequently asked questions	HTML
+contact.html	Contact page - Contact information	HTML
+styles.css	Global stylesheet for all pages	CSS
+3.2 Browser Compatibility
+The website is compatible with all modern browsers:
+
+Google Chrome (version 90+)
+Mozilla Firefox (version 88+)
+Safari (version 14+)
+Microsoft Edge (version 90+)
+Opera (version 76+)
+3.3 Responsive Breakpoints
+Device Type	Screen Width	Behavior
+Mobile	< 640px	Single column layout, stacked navigation
+Tablet	641px - 968px	Adapted two-column layouts, wrapped navigation
+Desktop	> 968px	Full multi-column layouts, horizontal navigation
+4. Page-by-Page Guide
+4.1 Home Page (index.html)
+Purpose
+The home page serves as the primary landing page for the Tukii Transport website. It provides visitors with an immediate understanding of the service through compelling visuals and clear messaging.
+
+Key Sections
+Navigation Bar: Persistent top navigation with logo and links to all pages
+Hero Section: Full-width image with overlay, headline, tagline, and call-to-action button
+Why Choose Tukii: Four feature cards highlighting service benefits
+Built for the City: Image and text section showcasing vehicle features
+Statistics: Key metrics (50K+ riders, 200+ vehicles, 15 cities, 4.9★ rating)
+Footer: Company info, quick links, and contact details
+
+User Interaction
+Users land on this page when visiting tukii.com
+Hero section immediately communicates the value proposition
+Call-to-action button directs users to booking page
+Feature cards provide quick overview of service benefits
+Statistics build trust and credibility
+Navigation allows users to explore other sections
+Design Note: The hero section uses a high-quality image of a tuktuk on a city street with a dark gradient overlay to ensure text readability while maintaining visual impact.
+4.2 About Page (about.html)
+Purpose
+The About page tells the Tukii story, communicating the company's mission, values, and commitment to sustainable urban transport. It helps build trust and connection with potential customers.
+
+Key Sections
+Page Hero: Title and subtitle introducing the section
+Company Story: Background on Tukii's founding and growth
+Image Banner: Full-width city street photography
+Mission & Vision Cards: Two-column layout explaining purpose and goals
+What Sets Us Apart: Six value propositions in grid layout
+Impact Section: Environmental and social impact metrics
+Leadership Team: Introduction to company leadership
+
+Content Highlights
+Mission Statement:
+"To revolutionize urban mobility by providing accessible, sustainable, and delightful transportation experiences that benefit riders, drivers, and communities alike."
+
+Core Values:
+Electric-First: 100% clean electric power fleet
+Driver Partnership: Fair compensation and benefits
+Technology Integration: Smart routing and tracking
+Community Focus: Local hiring and partnerships
+Safety Standards: Rigorous vetting and training
+Transparent Pricing: No surge pricing or hidden fees
+4.3 Services Page (services.html)
+Purpose
+The Services page provides comprehensive information about all transport solutions offered by Tukii, helping users understand which service best fits their needs.
+
+Key Sections
+Point-to-Point Rides: Large card with image and features
+Hourly Rentals: Flexible rental options with details
+Service Grid: Six additional services in card format:
+Airport Transfers
+City Tours
+Group Transport
+Package Delivery
+Corporate Accounts
+Accessible Transport
+Service Availability: Operating hours for different services
+
+Service Details
+Service	Best For	Key Features
+Point-to-Point	Daily commutes, quick trips	5-min pickup, GPS tracking, climate control
+Hourly Rental	Multiple errands, appointments	Dedicated driver, flexible routing
+Airport Transfer	Flight pickups/drop-offs	Flight tracking, 60-min wait time, 24/7
+City Tours	Sightseeing, exploration	Knowledgeable drivers, custom routes
+4.4 Pricing Page (pricing.html)
+Purpose
+The Pricing page provides transparent, detailed pricing information for all services, building trust through clarity and eliminating concerns about hidden costs.
+
+Key Sections
+Introduction: Statement on transparent pricing philosophy
+Standard Rides Table: Base fare and per-kilometer rates
+Hourly Rentals Table: Pricing for 2, 4, and 8-hour packages
+Special Services Cards: Three featured pricing cards for airport transfer, city tour, and package delivery
+Discounts Section: Four discount types (Student, Senior, Frequent Rider, Group)
+Good to Know: Important pricing notes and policies
+
+Pricing Structure
+Standard Ride Calculation:
+Base Fare: $4.50 (covers first 2 km)
+
+Per Kilometer: $1.80 (after initial 2 km)
+
+Wait Time: $0.40/min (after 3 free minutes)
+
+Example: A 10 km ride = $4.50 + (8 × $1.80) = $18.90
+
+Important: All prices include taxes, fees, and gratuity. No surge pricing is applied during peak hours or special events.
+4.5 Safety Page (safety.html)
+Purpose
+The Safety page demonstrates Tukii's commitment to passenger and driver safety through comprehensive protocols and transparent communication of safety measures.
+
+Key Sections
+Driver Excellence Program: Large feature with image showing vetting and training processes
+Safety Grid: Four cards covering:
+Vehicle Standards
+Smart Technology
+Health Protocols
+Insurance Coverage
+Emergency Support: Three emergency response options in dark-themed section
+Safety Tips for Riders: Before, during, and after ride guidance
+Reporting & Response: Incident reporting procedures
+
+
+Key Safety Features
+Category	Measures
+Driver Screening	Background checks, 5+ years experience, monthly training, drug testing
+Vehicle Maintenance	Weekly inspections, monthly checks, vehicles under 3 years old
+Technology	GPS tracking, in-app SOS button, incident detection, trip sharing
+Insurance	$2M liability, passenger accident coverage, property protection
+Emergency Contact: 24/7 emergency support available at +1-800-TUKII-911 for immediate assistance.
+4.6 Booking Page (booking.html)
+Purpose
+The Booking page guides users through various methods of booking a ride, providing clear instructions and setting expectations for the booking process.
+
+Key Sections
+Booking Methods: Three primary ways to book:
+Mobile App (featured with app badges)
+Web Booking
+Phone Booking
+How It Works: Four-step process visualization
+Booking Tips: Two-column tips for availability and special requirements
+Payment Options: Four payment methods grid
+Cancellation Policy: Clear policy explanation
+Corporate & Group Bookings: Enterprise services information
+
+Booking Process Steps
+Enter Details: Provide pickup location, destination, time, and special requirements
+Get Quote: Receive instant fare estimate with no hidden fees
+Confirm Ride: Review details and receive driver information
+Track & Ride: Watch driver approach in real-time and enjoy the ride
+Payment Methods Accepted:
+Credit and debit cards (encrypted and secure)
+Cash (exact change appreciated)
+Mobile wallets (Apple Pay, Google Pay)
+Corporate billing (monthly invoicing)
+4.7 FAQ Page (faq.html)
+Purpose
+The FAQ page addresses common questions and concerns, reducing support burden and helping users find answers quickly.
+
+Key Sections
+Questions are organized into five categories:
+
+Booking & Rides: 5 questions about booking process and ride details
+Pricing & Payment: 5 questions about fares and payment methods
+Safety & Comfort: 5 questions about safety measures and comfort features
+Technical & Account: 5 questions about app usage and account management
+Special Services: 4 questions about accessibility and specialized offerings
+
+Sample FAQ Entries
+Q: How do I book a ride?
+A: You can book through our mobile app, website at tukii.com/book, or by calling +1-800-TUKII-GO. The app offers the fastest booking experience with instant confirmation and real-time tracking.
+
+Q: Do you have surge pricing?
+A: No. We believe in transparent, consistent pricing. Our rates remain the same during peak hours, bad weather, and special events.
+
+Q: Are pets allowed?
+A: Small pets in carriers are welcome at no extra charge. Medium to large pets require advance notice. Service animals are always welcome and never require prior approval.
+
+4.8 Contact Page (contact.html)
+Purpose
+The Contact page provides multiple ways for users to reach Tukii support, creating accessibility and building customer confidence through available communication channels.
+
+Key Sections
+Contact Methods: Three primary contact cards:
+Phone Support (customer service and emergency)
+Email Support (various departments)
+Live Chat (app-based support)
+Office Locations: Two physical offices with addresses and hours
+Specialized Departments: Corporate, partnerships, careers, and media contacts
+Social Media: Platform links for community engagement
+Feedback Section: Ways to share customer feedback
+
+Contact Information Summary
+Purpose	Contact Method	Availability
+General Support	+1-800-TUKII-GO	5 AM - 12 AM Daily
+Emergency	+1-800-TUKII-911	24/7/365
+Email Inquiries	support@tukii.com	24-hour response
+Live Chat	Mobile App	6 AM - 11 PM
+Office Visit	450 Urban Plaza	Mon-Fri 9AM-6PM
+5. Design Features
+5.1 Typography
+The website uses the Lexend font family throughout, chosen for its excellent readability and modern appearance.
+
+Headings: Lexend 600-700 weight for impact
+Body Text: Lexend 300-400 weight for readability
+Line Height: 1.7-1.8 for optimal reading comfort
+Font Sizes: Responsive scaling from mobile to desktop
+5.2 Color Palette
+Color	Hex Code	Usage
+Primary Black	#000000	Navigation gradients, emphasis
+Secondary Dark	#2d3436	Headers, buttons, accents
+Text Primary	#1a1a1a	Main headings and important text
+Text Secondary	#555555
